@@ -209,18 +209,6 @@ Includes:
 
 ---
 
-## 🎥 Demo Video
-
-A short demo showcasing:
-
-* Submission of multiple orders
-* Status change stream over WebSocket
-* Routing decisions printed in logs
-
-➡️ Link will be included here after recording
-
----
-
 ## 📌 Deployment
 
 This can be deployed to:
